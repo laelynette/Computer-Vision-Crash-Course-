@@ -4,4 +4,4 @@
 
 ## Computer Vision
 
-I am currently studying data science, and this repository contains my hands-on activities and projects related to computer vision.
+Hi! I am currently studying data science, and this repository contains my hands-on activities and projects related to computer vision.
